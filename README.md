@@ -1,1 +1,2 @@
-# qr_attendance_management_system
+# QR Attendance Management System
+
